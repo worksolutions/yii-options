@@ -1,0 +1,13 @@
+{
+    "name": "worksolutions/yii.options",
+    "description": "Class work with the options (shell of the array)",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "WS\\Util": "src/"
+        }
+    }
+}
